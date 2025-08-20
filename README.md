@@ -1,4 +1,4 @@
-# Spotify Track Data and Dashboard Project
+el# Spotify Track Data and Dashboard Project
 
 ## 📌 Overview
 This project demonstrates how to:
@@ -93,7 +93,6 @@ Here is the **Excel Dashboard** generated from Spotify Top Tracks data:
 
 ## 📌 Future Enhancements
 - Automate dashboard updates directly from MySQL.
-- Add Flask/Django web app for real-time visualization.
-- Integrate Power BI / Tableau for advanced analytics.
+- Integrate MS-Excel for advanced analytics.
 
 ---
